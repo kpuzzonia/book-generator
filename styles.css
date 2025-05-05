@@ -1,0 +1,11 @@
+body {
+    background-color: #00AFB9;
+}
+
+.book-generator-main {
+    height: 500px;
+    width: 400px;
+    background-color: #FDFCDC;
+    margin-left: auto;
+    margin-right: auto;
+}
