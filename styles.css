@@ -15,6 +15,17 @@ body {
     padding: 20px;
 }
 
-.info-gathering button {
-    
+.info-gathering input {
+    border: 1px solid lightgrey;
 }
+
+.info-gathering button {
+    padding: 8px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 1px solid grey;
+}
+
+.info-gathering button:hover {
+    border: 1px solid whitesmoke;
+}
+
