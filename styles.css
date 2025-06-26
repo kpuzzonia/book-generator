@@ -32,6 +32,7 @@ body {
 .info-gathering button {
     padding: 8px;
     border: 1px solid white;
+    opacity: 75%;
 }
 
 .info-gathering button:hover {
