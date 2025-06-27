@@ -19,7 +19,7 @@ body {
     flex-direction: column;
     padding: 20px;
     text-align: center;
-    margin: 50px;
+    margin: 50px 200px;
 }
 
 .info-gathering {
@@ -41,5 +41,6 @@ body {
 
 #bookRec {
     height: 50px;
+    margin: 20px 40px 0;
 }
 
