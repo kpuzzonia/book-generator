@@ -43,7 +43,7 @@ To see how you can add code snippets, see below:
 
 ### Continued development
 
-As of 11/17/2025...I don't love the styling of this anymore. Upcoming tasks will include finsing a new color palette that is more simple and modern. 
+As of 11/17/2025...I don't love the styling of this anymore. Upcoming tasks will include finding a new color palette that is more simple and modern. 
 
 ### Useful resources
 
@@ -55,6 +55,5 @@ As of 11/17/2025...I don't love the styling of this anymore. Upcoming tasks will
 - Website - [Kari Puzzonia](https://www.karipuzzonia.com)
 - Instagram - [@yourusername](https://instagram.com/codewithkari)
 - GitHub - [@kpuzzonia](https://github.com/kpuzzonia/)
-
 
 
